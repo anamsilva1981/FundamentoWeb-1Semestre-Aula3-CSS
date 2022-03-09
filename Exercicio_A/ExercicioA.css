@@ -1,0 +1,11 @@
+/* A.	Aplicar um efeito de recuo de 40px à primeira linha de cada parágrafo. 
+Em seguida, aplicar um efeito de espaçamento entre letras de 5px nos parágrafos e 8px no título. */
+
+h1{
+    letter-spacing: 8px; /* Espaçamento no titulo*/
+}
+
+p{
+    text-indent: 40px; /*Recuo de 40px na primeira linha de cada parágrafo*/
+    letter-spacing: 5px; /*Espaçamento entre letras de 5px nos parágrafo*/
+}

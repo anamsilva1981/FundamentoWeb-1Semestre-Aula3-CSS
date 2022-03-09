@@ -1,0 +1,17 @@
+/*EXERCICIO B.	
+1. Aplicar no texto contido na célula de cabeçalho da tabela um alinhamento no centro. 
+2. No texto contido nas células de dados da tabela, aplicar efeito de alinhamento à direita. 
+3. Os textos em parágrafos comuns devem ficar justificados.*/
+
+
+th {
+    text-align: center; /*Alinhando ao centro*/
+} 
+
+td {
+    text-align: right; /*Alinhando a direita*/
+}
+
+p{
+    text-align: justify; /*Alinhando justificado*/
+}

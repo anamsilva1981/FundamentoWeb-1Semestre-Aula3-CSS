@@ -1,0 +1,10 @@
+/* EXERCICIO C:
+Usando a lista de nomes abaixo, capitalizar os nomes e pôr em maiúsculo todo o texto do cabeçalho. */
+
+h1{
+    text-transform: uppercase; /* Transforma todo o texto em letras maiúsculas*/
+}
+
+li{
+    text-transform: capitalize; /* Transforma a primeira letra de cada palavra em maiúscula*/
+}

@@ -1,0 +1,11 @@
+/* EXERCICIO D:
+ Aplique-o no arquivo html descrito a seguir e coloque uma borda vermelha (red), sólida, de 2px. */
+
+#A, #B { 
+    width: 100px; 
+    height: 100px; 
+    border: solid; /*Tracejado da borda*/
+    border-width: 2px; /*Espessura da borda*/
+    border-color: red; /*Cor da borda*/
+}
+
